@@ -1,0 +1,2 @@
+apache-airflow[celery,postgres,hive,hdfs,jdbc,async,password,crypto,github_enterprise,datadog,statsd,s3,mysql,google_auth,gcp_api,kubernetes]==1.10.5
+pytest==5.3.3
